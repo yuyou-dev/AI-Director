@@ -1,7 +1,7 @@
 # AI-Director
 AI导演课
 
-## 第一部分：视频制作智能体
+## 第一部分：视频制作智能体（GPTs）
 - 广告创意助手
 - 运镜大师
 - RunwayPromptPro
