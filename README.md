@@ -1,7 +1,7 @@
 # AI-Director
 AI导演课
 
-B站课堂：[余博士的AI视频方法论](https://space.bilibili.com/43149384)
+B站课堂：[余博士的AI视频方法论](https://www.bilibili.com/cheese/play/ss29865)
 
 ## 第一部分：视频制作智能体（GPTs）
 - 广告创意助手：提出需求，生成脚本和分镜
