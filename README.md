@@ -10,3 +10,5 @@ B站课堂：[余博士的AI视频方法论](https://www.bilibili.com/cheese/pla
 - Runway视频转绘：提供主体物，生成runway视频转绘提示词
 
 ## 第二部分：创新应用
+- 360度旋转镜头制作
+- 希区柯克变焦镜头制作
